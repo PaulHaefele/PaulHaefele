@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @PaulHaefele
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on any data analysis project 
 - 📫 How to reach me paul.haefele9@gmail.com
 
