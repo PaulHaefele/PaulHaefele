@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PaulHaefele
-- 👀 I’m interested in Data Analysis
-- 💞️ I’m looking to collaborate on any data analysis project 
+- 👀 I’m interested in Data Science
+- 💞️ I’m looking to collaborate on any data science project 
 - 📫 How to reach me paul.haefele9@gmail.com
 
 <!---
